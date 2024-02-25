@@ -24,4 +24,4 @@
 ### Setting up cluster access
 
 * [in K3s](https://docs.k3s.io/cluster-access)
-* Note that the user name in the config file isn't meaningful - it's just used to wire the various config together. So you should change it so that it's specific to the cluster.
+  * Note that the user name in the config file isn't meaningful - it's just used to wire the various config together. So you should change it so that it's specific to the cluster.
